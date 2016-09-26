@@ -5,4 +5,3 @@
 4. OPTIONAL: Do some sweeeet css
 Hint: Be careful with the order you append your elements to each other!
 Also be careful with what you need to pass when setting an image's width via the DOM.
-Add Comment Colla
